@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @churles
 - 👀 I’m interested in reading books
 - 🌱 I’m currently learning python
-- 📫 How to reach me | Gmail: ocana.churleslester@gmail.com | Twitter: @churleso |
+- 📫 How to reach me | Gmail: ocana.churleslester@gmail.com | Twitter:|
